@@ -5,3 +5,7 @@ function suma(){
 function resta(){
     return 10 - 2;
 }
+
+function multiplicacion(){
+    return 5*4;
+}
