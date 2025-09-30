@@ -1,13 +1,13 @@
-* { 
-    margin: 0; 
-    padding: 0; 
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(77, 136, 187);
-    color: black;
-    padding: 20px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(77, 136, 187);
+  color: black;
+  padding: 20px;
 }
 
 a {
@@ -16,12 +16,12 @@ a {
     margin-right: 10px;
     letter-spacing: 0.5cm;
 }
+
 button{
     background-color: brown;
     text-align: center;
 }
 
 h1{
-    background-color: aquamarine;
-    
+    background-color: aquamarine;    
 }
