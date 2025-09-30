@@ -1,18 +1,18 @@
-* { 
-    margin: 0; 
-    padding: 0; 
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(77, 136, 187);
-    color: black;
-    padding: 20px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(77, 136, 187);
+  color: black;
+  padding: 20px;
 }
 
 a {
-    text-decoration: none;
-    color: blue;
-    margin-right: 10px;
-    letter-spacing: 0.5cm;
+  text-decoration: none;
+  color: blue;
+  margin-right: 10px;
+  letter-spacing: 0.5cm;
 }
