@@ -11,8 +11,17 @@ body {
 }
 
 a {
-  text-decoration: none;
-  color: blue;
-  margin-right: 10px;
-  letter-spacing: 0.5cm;
+    text-decoration: none;
+    color: blue;
+    margin-right: 10px;
+    letter-spacing: 0.5cm;
+}
+
+button{
+    background-color: brown;
+    text-align: center;
+}
+
+h1{
+    background-color: aquamarine;    
 }
